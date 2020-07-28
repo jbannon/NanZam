@@ -1,0 +1,5 @@
+../data/ref_data/chr8_region.txt 
+../data/ref_data/IGH_locus.txt
+100
+1
+data/mycData/SimPatients/

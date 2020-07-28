@@ -1,0 +1,9 @@
+offline
+TGTAATCCCAGCACTTTGGGAGG
+2
+chr8
+igh
+chr8_region.txt
+IGH_locus.txt
+2
+127

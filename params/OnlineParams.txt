@@ -1,0 +1,7 @@
+online
+TGTAATCCCAGCACTTTGGGAGG
+Patient_Subset/
+alph.p
+bins.p
+ref_seq.p
+HashTable.p
